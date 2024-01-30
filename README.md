@@ -2,4 +2,4 @@
 
 Font gathering and distributing
 
-[PingFang.ttf](./assets/font/PingFang.ttf)
+[PingFang.ttc](./assets/font/PingFang.ttc)
